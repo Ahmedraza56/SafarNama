@@ -1,4 +1,4 @@
-
+![Alt text](safarnama.png)
 
 The program appears to be a Python-based web application that combines mapping functionalities with an AI conversational agent powered by OpenAI's GPT model. Here's a brief overview of its features:
 
